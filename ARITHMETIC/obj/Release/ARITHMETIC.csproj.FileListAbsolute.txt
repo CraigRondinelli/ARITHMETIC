@@ -1,0 +1,9 @@
+C:\Users\Craig\Desktop\CIS 202 Programs\ARITHMETIC\ARITHMETIC\bin\Release\ARITHMETIC.exe.config
+C:\Users\Craig\Desktop\CIS 202 Programs\ARITHMETIC\ARITHMETIC\bin\Release\ARITHMETIC.exe
+C:\Users\Craig\Desktop\CIS 202 Programs\ARITHMETIC\ARITHMETIC\bin\Release\ARITHMETIC.pdb
+C:\Users\Craig\Desktop\CIS 202 Programs\ARITHMETIC\ARITHMETIC\obj\Release\ARITHMETIC.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\CIS 202 Programs\ARITHMETIC\ARITHMETIC\obj\Release\ARITHMETIC.frmArithmetic.resources
+C:\Users\Craig\Desktop\CIS 202 Programs\ARITHMETIC\ARITHMETIC\obj\Release\ARITHMETIC.Properties.Resources.resources
+C:\Users\Craig\Desktop\CIS 202 Programs\ARITHMETIC\ARITHMETIC\obj\Release\ARITHMETIC.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\CIS 202 Programs\ARITHMETIC\ARITHMETIC\obj\Release\ARITHMETIC.exe
+C:\Users\Craig\Desktop\CIS 202 Programs\ARITHMETIC\ARITHMETIC\obj\Release\ARITHMETIC.pdb
